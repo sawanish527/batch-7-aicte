@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Model files
+*.h5
+*.pkl
+
+# Generated outputs
+generated_music/
+
+# Dataset (optional)
+dataset/
+
+# Virtual environment
+venv/
+
+# VS Code settings
+.vscode/
